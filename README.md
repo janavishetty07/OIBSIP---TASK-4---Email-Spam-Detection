@@ -1,9 +1,10 @@
-Email Spam Detection 
+
+ 
+ Email Spam Detection 
 
 This project was developed as part of my Data Science internship and focuses on building a machine learning model to detect spam messages. The main objective is to classify SMS messages as either spam or ham (not spam) using machine learning and Natural Language Processing (NLP) techniques.
 
-
- 🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used
 
   Python– Programming language used for development
   Pandas & NumPy – For data manipulation and numerical operations
